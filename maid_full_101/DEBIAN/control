@@ -1,0 +1,11 @@
+Package: system-maid
+Version: 1.0.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt6, pkexec, linux-cpupower, e2fsprogs
+Maintainer: A. Serhat KILIÇOĞLU <www.github.com/shampuan>
+Description: Linux sistem temizliği, optimizasyonu ve gizlilik aracı.
+ System Maid, APT önbelleklerini temizler, disk birleştirme (HDD için) yapar,
+ CPU performansını ayarlar ve kullanıcı gizliliğini korumak için çöp
+ kutusu ve önbellekleri güvenli bir şekilde siler.
