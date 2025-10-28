@@ -1,15 +1,20 @@
 # System-Maid
-# System Cleaner and Optimizer Mini Suite
+System Cleaner and Optimizer Mini Suite
 
 <img width="128" height="128" alt="maid" src="https://github.com/user-attachments/assets/22462a3b-03d6-4c24-8001-ea63008dc78c" />
 
 Language: English(Default), Türkçe.
 
 Python
+
 Qt-6
+
 1.0.1 version (beta)
+
 GPL licence
+
 Debian based linux systems.
+
 KDE, XFCE, GNOME.
 
 
