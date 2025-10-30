@@ -4,11 +4,11 @@ IMPROVEMENTS:
 
 2. The interface has been colored to create a more aesthetically pleasing GUI.
 
-3. The File System Cleaning category has been added:
+# THESE FUNCTIONS HAVE BEEN REMOVED! 3. The File System Cleaning category has been added:
 
-* Delete broken links
-* Clean empty directories
-* Delete Snap/Flatpak user cache remnants
+#* Delete broken links THESE FUNCTIONS HAVE BEEN REMOVED!
+#* Clean empty directories THESE FUNCTIONS HAVE BEEN REMOVED!
+#* Delete Snap/Flatpak user cache remnants THESE FUNCTIONS HAVE BEEN REMOVED!
 
 4. In the System Optimization tab:
 
@@ -29,11 +29,11 @@ GELİŞTİRMELER:
 
 2. Arayüzde butonlar renklendirilerek daha hoş bir GUI hedeflendi.
 
-3. Dosya Sistemi Temizliği kategorisi eklendi:
+# BU ÖZELLİKLER KALDIRILDI! 3. Dosya Sistemi Temizliği kategorisi eklendi:
 
-* Kırık link bağlantılarını sil
-* Boş dizinleri temizle
-* Snap/Flatpak kullanıcı önbellek kalıntılarını sil
+* Kırık link bağlantılarını sil BU ÖZELLİKLER KALDIRILDI!
+* Boş dizinleri temizle BU ÖZELLİKLER KALDIRILDI!
+* Snap/Flatpak kullanıcı önbellek kalıntılarını sil BU ÖZELLİKLER KALDIRILDI!
 
 4. Sistem Optimizasyonu Sekmesinde;
 
@@ -46,3 +46,4 @@ GELİŞTİRMELER:
 6. Dolu kutucukların önemli olanları varsayılan olarak boş geliyor; neyi seçip temizleyeceğini kullanıcı kendisi belirler. 
 
 Resimlerin yabancı dil olduğuna bakmayın. Ayrıca temanın koyu olmasına aldanmayın, sistem temanız neyse ona bürünür. 
+
