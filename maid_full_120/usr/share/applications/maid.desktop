@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=System Maid
+Comment=Linux System Cleaner, Optimizer and Privacy Tool
+Exec=/usr/share/system-maid/maid.py
+Icon=maid
+Terminal=false
+Type=Application
+Categories=System;Utility;Cleaner;
+Keywords=cleaner;optimizer;system;privacy;apt;defrag;
+StartupNotify=true
