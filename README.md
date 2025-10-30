@@ -11,7 +11,7 @@ Python
 
 Qt-6
 
-1.0.1 version (beta)
+It is still beta.
 
 GPL licence
 
