@@ -1,0 +1,11 @@
+Package: system-maid
+Version: 1.4.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.6), python3-pyside6.qtwidgets | libpyside6-py3-6.8 | python3-pyside6, libqt6core6, libqt6widgets6, libqt6gui6, libxcb-cursor0, pkexec, linux-cpupower, e2fsprogs
+Maintainer: A. Serhat KILIÇOĞLU <www.github.com/shampuan>
+Description: Linux sistem temizliği, optimizasyonu ve gizlilik aracı.
+ System Maid, APT önbelleklerini temizler, disk birleştirme (HDD için) yapar,
+ CPU performansını ayarlar ve kullanıcı gizliliğini korumak için çöp
+ kutusu ve önbellekleri güvenli bir şekilde siler.
