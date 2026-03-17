@@ -1,3 +1,12 @@
+2.0 Notes:
+
+The program has now switched from pyside6 to pyQt6, and the previous issue has been completely resolved.
+
+The interface has been completely redesigned and is much better.
+
+Many features have been improved, enhanced, or modified.
+
+=======================
 IMPROVEMENTS:
 
 1. The software icon/logo has been updated.
