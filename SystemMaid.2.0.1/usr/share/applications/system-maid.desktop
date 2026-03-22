@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=System Maid
+Comment=Advanced System Cleaner and Optimizer
+Comment[tr]=Gelişmiş Sistem Temizleyici ve Optimize Edici
+Exec=python3 /usr/share/system-maid/maid.py
+Icon=maid
+Terminal=false
+Type=Application
+Categories=System;Settings;
+StartupNotify=true
