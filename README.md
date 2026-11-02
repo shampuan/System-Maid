@@ -18,17 +18,14 @@ for Debian based linux systems.
 KDE, XFCE, GNOME.
 
 
-<img width="980" height="734" alt="Ekran görüntüsü_2026-03-17_20-14-44" src="https://github.com/user-attachments/assets/83620469-aac2-43d9-ad5a-a95d7815cbd6" />
+<img width="1010" height="734" alt="Ekran görüntüsü_2026-11-02_11-13-54" src="https://github.com/user-attachments/assets/556b23e0-89bb-486c-bb8f-b8d20e8512a4" />
+<img width="980" height="734" alt="Ekran görüntüsü_2026-11-02_10-50-58" src="https://github.com/user-attachments/assets/2972e4db-3bfc-4a2d-8105-13925d398e55" />
+<img width="980" height="734" alt="Ekran görüntüsü_2026-11-02_10-50-43" src="https://github.com/user-attachments/assets/da4bb686-9552-4222-8d4c-cb2fccdcd88c" />
+<img width="980" height="734" alt="Ekran görüntüsü_2026-11-02_10-50-10" src="https://github.com/user-attachments/assets/6d880877-36eb-491b-83f1-e5e87bcb802a" />
+<img width="980" height="734" alt="Ekran görüntüsü_2026-11-02_10-50-00" src="https://github.com/user-attachments/assets/c7673632-78a1-4934-a79a-157f667fa527" />
+<img width="980" height="734" alt="Ekran görüntüsü_2026-11-02_10-49-48" src="https://github.com/user-attachments/assets/8cad200f-3913-43cc-9db6-ac4ea37b0d0a" />
+<img width="980" height="734" alt="Ekran görüntüsü_2026-11-02_10-49-09" src="https://github.com/user-attachments/assets/b2d6deef-f104-45de-b7ad-7d38a52fc565" />
 
-<img width="980" height="734" alt="Ekran görüntüsü_2026-03-17_20-14-55" src="https://github.com/user-attachments/assets/07420b64-4e67-45ee-bad3-659c19cdc819" />
-
-<img width="980" height="734" alt="Ekran görüntüsü_2026-03-17_20-15-04" src="https://github.com/user-attachments/assets/a203b16f-87ef-47eb-af94-2673149a9667" />
-
-<img width="980" height="734" alt="Ekran görüntüsü_2026-03-17_20-15-12" src="https://github.com/user-attachments/assets/a0ee1db7-eca7-45bf-849c-f3c0235b2345" />
-
-<img width="980" height="734" alt="Ekran görüntüsü_2026-03-17_20-15-35" src="https://github.com/user-attachments/assets/602dfb28-1d28-4da7-903b-cb2289fab2e3" />
-
-<img width="410" height="234" alt="Ekran görüntüsü_2026-03-17_17-49-44" src="https://github.com/user-attachments/assets/01a7922a-03d4-4eda-873e-044cb7228ac4" />
 
 
 
